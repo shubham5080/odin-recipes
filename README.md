@@ -5,4 +5,4 @@ In the HTML some things i learned which i  type here one by one
 3)head which tells the info about the page 
 4)also meta = UTF 8 tells which charset we are using 
 5)then title for the following page,
-6)body which contain while part of code which require to build the view for the page and with that it is very impertant thing which need to be con
+6)body which contain while part of code which require to build the view for the page and with that it is very important.
